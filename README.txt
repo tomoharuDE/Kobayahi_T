@@ -11,3 +11,9 @@ counting.pdf
 CreateNewLabels.pdf
 機械学習向けの特徴量データを作成
 関数の呼び出し記録を基に、各関数がある引数で呼び出された回数をそれぞれカウント
+
+experiment.py
+提出作品。以下experiment.pyで収集されるデータの一例
+｜ーsample_ex.csv       :視線データ
+｜ーsample_ex_click.csv :マウス入力データ
+｜ーsample_ex_key.csv   :キーボード入力データ
